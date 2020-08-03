@@ -1,3 +1,5 @@
-# pomodoroApp
-This App was created using Dart with the flutter framework
-Its A pomodoro timer app for the ECX internship
+# pomodoro_app
+
+A Flutter App created for the purpose of the ECX internship
+I built this app using the Canvas painter for Flutter
+
